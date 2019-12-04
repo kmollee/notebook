@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Advent code 2019 with Go](README.md)
 
