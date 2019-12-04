@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Advent code 2019 with Go](README.md)
-* [Hello](hello.md)
+* [Notebook](README.md)
+* [Advent code 2019 with Go](hello.md)
 
