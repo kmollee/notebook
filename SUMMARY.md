@@ -7,4 +7,5 @@
 * [Note](advent-code-2019-go/note.md)
 * [File Read/Write](advent-code-2019-go/day1.md)
 * [Benchmark](advent-code-2019-go/day2.md)
+* [Slice](advent-code-2019-go/slice.md)
 
