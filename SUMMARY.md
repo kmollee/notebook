@@ -9,3 +9,7 @@
 * [Benchmark](advent-code-2019-go/day2.md)
 * [Slice](advent-code-2019-go/slice.md)
 
+## Misc
+
+* [軟體開發的那些真理](misc/ruan-ti-kai-fa-de-na-xie-zhen-li.md)
+
