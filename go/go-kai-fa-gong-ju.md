@@ -120,15 +120,12 @@ https://github.com/shunfei/cronsun/blob/master/README\_ZH.md
 https://github.com/ouqiang/gocron
 
 **16\)自動化運維平台 Gaia**  
-https://github.com/gaia-pipeline/gaia
+https://github.com/gaia-pipeline/gaia  
 
-###  
 
 ### 三. 網絡工具
 
-![](https://mmbiz.qpic.cn/mmbiz_png/j3gficicyOvatzJibnFP6EXDYRTOzL8ZgT4oXh17qR8vTl5uHKrXtFcp45GS6VyRXMJw4vnSQ3mDibKxL7ficGrPshw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-###  
+![](../.gitbook/assets/image%20%282%29.png)
 
 ### 四. 常用網站
 
